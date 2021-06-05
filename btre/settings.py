@@ -25,7 +25,7 @@ SECRET_KEY = '%k$)@g-na_%h@^&od@g_cf+8-@c2wzph0a-k0#g8l#@elrq=w='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['magicsearch.azurewebsites.net']
 
 
 # Application definition
