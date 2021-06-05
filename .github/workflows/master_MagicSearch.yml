@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'MagicSearch'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_30051e5bd1dd4370a68482a1c2fe85c7 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_3c58dadbaced435f83c146f6333275d8 }}
